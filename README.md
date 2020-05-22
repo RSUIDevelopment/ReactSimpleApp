@@ -1,1 +1,1 @@
-# ReactTodoTS
+# ReactSimpleApp
