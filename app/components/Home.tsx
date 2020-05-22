@@ -2,7 +2,7 @@ import React from 'react';
 
 const Home: React.SFC = () => (
   <div>
-    <h1>Welcome to the React Starter</h1>
+    <h1>Welcome to Mikes React Starter</h1>
     <div className="mainimgcontainer">
       <img
         className="mainimg"
